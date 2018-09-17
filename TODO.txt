@@ -1,0 +1,2 @@
+// - validate against compatible brands 
+// - handle fragmented container

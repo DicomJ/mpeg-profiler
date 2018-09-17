@@ -1,4 +1,4 @@
 [submodule "extern/mpeg-mp4"]
 	path = extern/mpeg-mp4
-	url = git@bitbucket.org:dicomj23/mpeg-profiler.git
-    branch = develop
+	url = git@github.com:DicomJ/mpeg-mp4.git
+	branch = master
